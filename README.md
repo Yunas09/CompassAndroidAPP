@@ -1,3 +1,7 @@
 # CompassAndroidAPP
 
-Dette er vores kompas app, som er skrevet i Java. 
+Dette er vores kompas app.
+
+Der er nu blevet rettet, og finpudset. 
+
+Skrevet i Kotlin
